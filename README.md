@@ -1,3 +1,3 @@
 Personal website of Antonio Vetrò.
 
-Template by (https://startbootstrap.com/)[StartBootstrap]
+Template by https://startbootstrap.com/
